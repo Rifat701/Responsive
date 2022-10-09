@@ -1,0 +1,29 @@
+#home{
+    height: 820px;
+    margin-top: 10%;
+}
+
+.headings{
+    font-size: 1.7rem;
+}
+#intro h2{
+    font-size: 1.5rem;
+}
+.gallery img{
+    width: 250px;
+    height: 150px;
+    margin: 10px;
+
+}
+.input{
+    width: 70%;
+}
+.email{
+    width: 70%;
+}
+.msg{
+    width: 70%;
+}
+.send{
+    width: 30%;
+}
